@@ -25,6 +25,7 @@ One can simply use <b>Connnect</b> by either logging in by Google or Facebook or
     <li>Multiple room at once</li>
     <li>Auto Scrolling</li>
   <li>Low Latency Chatting</li>
+  </ul>
 </ol>
 <div>
 <img src="https://user-images.githubusercontent.com/59795737/125237293-12844f00-e303-11eb-89ce-6e7a7d65b755.jpg" width="500" height="500">
