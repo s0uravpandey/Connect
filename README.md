@@ -35,7 +35,7 @@ One can simply use <b>Connnect</b> by either logging in by Google or Facebook or
     <li> Security</li>
        <ul>
            <li>Google/Facebook Authentication</li>
-           <li>User can join thier personalised Meeting ID, Live ID, Chat ID</li>
+           <li>User can join through thier personalised Meeting ID, Live ID, Chat ID</li>
     </ol>
 <div>
 <img src="https://user-images.githubusercontent.com/59795737/125237293-12844f00-e303-11eb-89ce-6e7a7d65b755.jpg" width="500" height="500">
