@@ -52,9 +52,7 @@ One can simply use <b>Connnect</b> by either logging in by Google or Facebook or
     <h2>or</h2>
     <h4> Run index.html for running project without authentication</h4>
     
-    Connect Chat app and Text Summariser must to run seperately as Chat App is made using React and Text Summariser using Flask.</h2>
-    <a href="https://github.com/s0uravpandey/Connect/tree/main/Connect-Chat">Chatapp-readme</a><br><a href="https://github.com/s0uravpandey/Connect/tree/main/connect-text_summarizer">Text-summariser-readme</a>
-    
-    Thank You<br>
-        Drop a star if you like it.  :)<
+    Connect Chat app and Text Summariser must to run seperately as Chat App is made using React and Text Summariser using Flask.
+    Thank You
+    Drop a star if you like it.  :)
     
