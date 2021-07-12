@@ -3,7 +3,7 @@
 One can simply use <b>Connnect</b> by either logging in by Google or Facebook or by using it as a Guest.
 <!-- ![smartmockups_kr07hbv1](https://user-images.githubusercontent.com/59795737/125237293-12844f00-e303-11eb-89ce-6e7a7d65b755.jpg=250x250) -->
 <h3>Features Offered by Connect</h3>
-<ol>
+<ul>
   <li> Group Video Call</li>
   <ul>
     <li>Mute/Unmute</li>
