@@ -18,7 +18,7 @@ One can simply use <b>Connnect</b> by either logging in by Google or Facebook or
     <li>Starting a new Live Stream</li>
     <li>Joining a existing Live Stream</li>
   </ul>
-  <li> Chat App</li
+  <li> Chat App</li>
   <ul>
     <li>Chat in 1-1 room or with many People</li>
     <li>Can see People Online or in room</li>
