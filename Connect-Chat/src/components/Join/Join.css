@@ -1,0 +1,89 @@
+html, body {
+  font-family: 'Roboto', sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+#root {
+  height: 100vh;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.joinOuterContainer {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  height: 100vh;
+  align-items: center;
+  background: url('./background1.jpg') no-repeat center fixed; 
+  background-size: cover;
+}
+.homebtn{
+  background-color: darkcyan;
+  width: 20%;
+  height: 8vh;
+  margin-top: 5%;
+  color: white;
+  font-size: large;
+  border-radius: 20%;
+}
+.joinInnerContainer {
+  background-color: black;
+  width: 30%;
+}
+.inputs{
+  padding: 1rem;
+}
+.joinInput {
+  border-radius: 0;
+  padding: 15px 20px;
+  width: 100%;
+}
+
+.heading {
+  color: white;
+  font-size: 2.5em;
+  padding-bottom: 10px;
+  border-bottom: 2px solid white;
+}
+
+.button {
+    color: #fff !important;
+    font-size: 25px;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: darkcyan;
+    padding: 20px;
+    border-radius: 5px;
+    display: inline-block;
+    border: none;
+    width: 50%;
+    height: 10vh;
+}
+
+.mt-20 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .joinOuterContainer {
+    height: 100%;
+  }
+
+  .joinInnerContainer {
+    width: 90%;
+  }
+
+
+}
+
+button:focus {
+  outline: 0;
+}
+button:hover{
+  background-color: blue;
+}
