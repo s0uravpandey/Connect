@@ -50,7 +50,7 @@ One can simply use <b>Connnect</b> by either logging in by Google or Facebook or
     </ul>
     <h4>Run Command Firebase serve for runnning on Localhost</h4>
     <h2>or</h2>
-    <h4> Run index.html for running project without authentication</h4>
+    <h4> Run index for running project without authentication</h4>
     
     Connect Chat app and Text Summariser must to run seperately as Chat App is made using React and Text Summariser using Flask.
     Thank You
