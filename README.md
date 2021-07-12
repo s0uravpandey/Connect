@@ -43,7 +43,7 @@ One can simply use <b>Connnect</b> by either logging in by Google or Facebook or
 <!-- ![smartmockups_kr07lksn](https://user-images.githubusercontent.com/59795737/125237558-81fa3e80-e303-11eb-9cdf-6c97834ae635.jpg) -->
 <h3> Requirements</h3>
     <ul>
-        <li> Agora SDK/<a href="">CDN</a>
+        <li> Agora SDK/<a href="">CDN</a></li>
         <li> Agora APP ID<li>
         <li> Firebase Setup for Authentication </li>
         <li> Flask</li>
