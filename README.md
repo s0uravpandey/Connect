@@ -48,13 +48,13 @@ One can simply use <b>Connnect</b> by either logging in by Google or Facebook or
         <li> Firebase Setup for Authentication </li>
         <li> Flask</li>
     </ul>
-    <h4>Run Command Firebase serve for runnning on Localhost</h4><br>
+    <h4>Run Command Firebase serve for runnning on Localhost</h4>
     <h2>or</h2>
     <h4> Run index.html for running project without authentication</h4>
     
-    <h2>Connect Chat app and Text Summariser must to run seperately as Chat App is made using React and Text Summariser using Flask.</h2>
-    <a href="https://github.com/s0uravpandey/Connect/tree/main/Connect-Chat">Chatapp-readme</a><br><a href="https://github.com/s0uravpandey/Connect/tree/main/connect-text_summarizer">Text-summariser-readme</a><br>
+    Connect Chat app and Text Summariser must to run seperately as Chat App is made using React and Text Summariser using Flask.</h2>
+    <a href="https://github.com/s0uravpandey/Connect/tree/main/Connect-Chat">Chatapp-readme</a><br><a href="https://github.com/s0uravpandey/Connect/tree/main/connect-text_summarizer">Text-summariser-readme</a>
     
-    <h4>Thank You<br>
-        Drop a star if you like it.  :)</h4>
+    Thank You<br>
+        Drop a star if you like it.  :)<
     
