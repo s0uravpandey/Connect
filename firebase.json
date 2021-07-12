@@ -1,0 +1,57 @@
+{
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "redirects": [
+      {
+        "source": "/signup",
+        "destination": "./signup.html",
+        "type":301
+      },
+      {
+        "source": "/profile",
+        "destination": "./profile.html",
+        "type":301
+      },
+      {
+        "source": "/edit",
+        "destination": "./edit.html",
+        "type":301
+      },
+      {
+        "source": "/reset",
+        "destination": "./reset.html",
+        "type":301
+      },
+      {
+        "source": "/home",
+        "destination": "./home.html",
+        "type":301
+      },
+      {
+        "source": "/groupVC",
+        "destination": "./groupVC.html",
+        "type":301
+      },
+      {
+        "source": "/goLive",
+        "destination": "./goLive.html",
+        "type":301
+      },
+      {
+        "source": "/joinLivestream",
+        "destination": "./joinLivestream.html",
+        "type":301
+      },
+      {
+        "source": "/merge",
+        "destination": "./merge.html",
+        "type":301
+      }
+    ]
+  }
+}
