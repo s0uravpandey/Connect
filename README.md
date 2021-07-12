@@ -12,20 +12,20 @@ One can simply use <b>Connnect</b> by either logging in by Google or Facebook or
   </ul>
   <li> Live Streaming / Joining Live Stream</li>
   <ul>
-     <li>Mute/Unmute</li>
+    <li>Mute/Unmute</li>
     <li>Camera on/off</li>
     <li>Microphone/Camera choosing option</li>
     <li>Starting a new Live Stream</li>
     <li>Joining a existing Live Stream</li>
   </ul>
   <li> Chat App</li
-    <ul>
-      <li>Chat in 1-1 room or with many People</li>
-      <li>Can see People Online or in room</li>
-      <li>Multiple room at once</li>
-      <li>Auto Scrolling</li>
-      <li>Low Latency Chatting</li>
-    </ul>
+  <ul>
+    <li>Chat in 1-1 room or with many People</li>
+    <li>Can see People Online or in room</li>
+    <li>Multiple room at once</li>
+    <li>Auto Scrolling</li>
+    <li>Low Latency Chatting</li>
+  </ul>
 </ol>
 <div>
 <img src="https://user-images.githubusercontent.com/59795737/125237293-12844f00-e303-11eb-89ce-6e7a7d65b755.jpg" width="500" height="500">
