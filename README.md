@@ -74,7 +74,7 @@ Connect Chat app and Text Summariser has to be run seperately as Chat App is mad
             <li>How to make Design more User Friendly and Interactive</li></ul>
 </ul>
 <img src="https://user-images.githubusercontent.com/59795737/125383834-ad3d6600-e3b5-11eb-8fc6-244ee230aa42.JPG" width="700" height="500"><br>
-## Week 2-3
+<h3>Week 2-3</h3>
 <ul>
     <li>Daily Scrum meeting With Professors, friends or VIT-Club Member</li>
     <li>Daily Schedule Planning</li>
@@ -89,7 +89,7 @@ Connect Chat app and Text Summariser has to be run seperately as Chat App is mad
             <li>User Authentication Setup</li></ul>
 </ul>      
 <img src="https://user-images.githubusercontent.com/59795737/125383838-ae6e9300-e3b5-11eb-8be4-5f6f7da0080d.JPG" width="700" height="500"><br>
-## Week 4
+<h3>Week 4</h3>
 <ul>
     <li>Daily Scrum meeting With Professors, friends or VIT-Club Member</li>
     <li>Daily Schedule Planning</li>
