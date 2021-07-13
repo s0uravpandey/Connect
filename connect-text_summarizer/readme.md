@@ -16,7 +16,7 @@
 
 # Usage: -
 Text Summarizer can be used for generating reports or summary of a Meeting or to understand any topic or concept by its summary.
-Text Summarizer is the need of the hour as online meeting and class are happening and user, students, employee need an application where they can generate a Moments of the Meeting for better understanding.Students can also be use text summarizer to understand any chapter or topic they are taught in class.
+Text Summarizer is the need of the hour as online meeting and class are happening and user, students, employee need an application where they can generate a Moments of the Meeting for better understanding.Students can also use text summarizer to understand any chapter or topic they are taught in class.
 
 # Commands to run in LocalHost
 ## python app.py
