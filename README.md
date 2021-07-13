@@ -48,6 +48,7 @@ One can simply use <b>Connnect</b> by either logging in by Google or Facebook or
         <li> Firebase Setup for Authentication </li>
         <li> Flask</li>
     </ul>
+    <h5>Chat Application and Text Summariser may take few seconds to load as it is hosted on Heroku</h5>
     <h4>Run Command Firebase serve for runnning on Localhost</h4>
     <h2>or</h2>
     <h4> Run index.html for running project without authentication</h4>
