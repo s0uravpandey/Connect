@@ -58,8 +58,7 @@ One can simply use <b>Connnect</b> by either logging in by Google or Facebook or
     <h4>Run Command Firebase serve for runnning on Localhost</h4>
     <h2>or</h2>
     <h4> Run index.html for running project without authentication</h4>
-    
-Connect Chat app and Text Summariser has to be run seperately as Chat App is made using React and Text Summariser using Flask.
+    Connect Chat app and Text Summariser has to be run seperately as Chat App is made using React and Text Summariser using Flask.
  
 # Agile methodology and Timeline
 ## Daily Scrum meeting from 9-9:30 AM
