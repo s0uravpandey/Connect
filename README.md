@@ -36,6 +36,12 @@ One can simply use <b>Connnect</b> by either logging in by Google or Facebook or
        <ul>
            <li>Google/Facebook Authentication</li>
            <li>User can join through thier personalised Meeting ID, Live ID, Chat ID</li>
+    </ul>
+    <li> Support</li>
+     <ul>
+           <li>Feedback System</li>
+           <li>Queries or doubt support system with live chat</li>
+    </ul>
     </ol>
 <div>
 <img src="https://user-images.githubusercontent.com/59795737/125237293-12844f00-e303-11eb-89ce-6e7a7d65b755.jpg" width="400" height="400">
