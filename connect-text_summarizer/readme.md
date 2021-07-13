@@ -1,4 +1,4 @@
-# Connect Text-Summarizer
+# Connect Text-Summarizer || Moments Of Meeting Generator
 ## Text summarization in NLP is the process of summarizing the information in large texts for quicker consumption.
 ## Made using Python,Spacy and Flask
 <ol>
@@ -13,6 +13,10 @@
   <li>Spacy <a href="https://spacy.io/models/en">English Models</a></li>
   <li>Flask</li>
 </ul>
+
+# Usage: -
+Text Summarizer can be used for generating reports or summary of a Meeting or to understand any topic or concept by its summary.
+Text Summarizer is the need of the hour as online meeting and class are happening and user, students, employee need an application where they can generate a Moments of the Meeting for better understanding.Students can also be use text summarizer to understand any chapter or topic they are taught in class.
 
 # Commands to run in LocalHost
 ## python app.py
