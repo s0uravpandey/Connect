@@ -53,6 +53,15 @@ One can simply use <b>Connnect</b> by either logging in by Google or Facebook or
     <h4> Run index.html for running project without authentication</h4>
     
     Connect Chat app and Text Summariser must to run seperately as Chat App is made using React and Text Summariser using Flask.
+ 
+# Agile methodology and Timeline
+## Week 1
+<img src="https://user-images.githubusercontent.com/59795737/125383834-ad3d6600-e3b5-11eb-8fc6-244ee230aa42.JPG" width="700" height="500"><br>
+## Week 2-3
+<img src="https://user-images.githubusercontent.com/59795737/125383838-ae6e9300-e3b5-11eb-8be4-5f6f7da0080d.JPG" width="700" height="500"><br>
+## Week 4
+<img src="https://user-images.githubusercontent.com/59795737/125383843-af072980-e3b5-11eb-8da8-43f274a681b7.JPG" width="700" height="500">
+
     Thank You
     Drop a star if you like it.  :)
     
