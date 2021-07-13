@@ -59,16 +59,52 @@ One can simply use <b>Connnect</b> by either logging in by Google or Facebook or
     <h2>or</h2>
     <h4> Run index.html for running project without authentication</h4>
     
-    Connect Chat app and Text Summariser has to be run seperately as Chat App is made using React and Text Summariser using Flask.
+Connect Chat app and Text Summariser has to be run seperately as Chat App is made using React and Text Summariser using Flask.
  
 # Agile methodology and Timeline
+## Daily Scrum meeting from 9-9:30 AM
 ## Week 1
+<ul>
+    <li>Daily Scrum meeting With Professors, friends or VIT-Club Member</li>
+    <li>Daily Schedule Planning</li>
+    <li>Time Distribution for both Development and Testing</li>
+    <li>Research and analysis on software or application to intergrate or use</li>
+    <li>Testing Sessions included: -
+        <ul><li>Design Flaws</li>
+            <li>How to make Design more User Friendly and Interactive</li></ul>
+</ul>
 <img src="https://user-images.githubusercontent.com/59795737/125383834-ad3d6600-e3b5-11eb-8fc6-244ee230aa42.JPG" width="700" height="500"><br>
 ## Week 2-3
+<ul>
+    <li>Daily Scrum meeting With Professors, friends or VIT-Club Member</li>
+    <li>Daily Schedule Planning</li>
+    <li>Time Distribution for both Development and Testing</li>
+    <li>Research and analysis on software or application to intergrate or use</li>
+    <li>Week 2 utilised for development of home, Video Calling Page and intgrating it with Agora.</li> 
+    <li>Week 3 utilised for development of index page having user aunthentication with firebase,live Page and intgrating it with Agora.</li> 
+    <li>Testing Sessions included: -
+        <ul><li>Frontend, CSS Flaws</li>
+            <li>How to stick with Design</li>
+            <li>Backend Integration</li>
+            <li>User Authentication Setup</li></ul>
+</ul>      
 <img src="https://user-images.githubusercontent.com/59795737/125383838-ae6e9300-e3b5-11eb-8be4-5f6f7da0080d.JPG" width="700" height="500"><br>
 ## Week 4
+<ul>
+    <li>Daily Scrum meeting With Professors, friends or VIT-Club Member</li>
+    <li>Daily Schedule Planning</li>
+    <li>Time Distribution for both Development and Testing</li>
+    <li>Research and analysis on software or application to intergrate or use</li>
+    <li>Week 4 tilised for development of chat page using react, socket and text summariser model and its deployement</li>
+    <li>Testing Sessions included: -
+        <ul><li>Frontend, CSS Flaws</li>
+            <li>How to stick with Design</li>
+            <li>React integration</li>
+            <li>NLP Model Analysis and its performance</li>
+            <li>Text Summariser Deployment Issues</li>
+        </ul>
+</ul>   
 <img src="https://user-images.githubusercontent.com/59795737/125383843-af072980-e3b5-11eb-8da8-43f274a681b7.JPG" width="700" height="500">
-
 <a href="https://connect-sp29.web.app/"><h2>Connect Web App</h2></a>
     Thank You
     Drop a star if you like it.  :)
